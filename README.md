@@ -1,3 +1,3 @@
 # doitnlp
 doitnlp   
-from ![ratsnlp](https://ratsgo.github.io/nlpbook/)
+from [ratsnlp](https://ratsgo.github.io/nlpbook/)
